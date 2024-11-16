@@ -62,9 +62,9 @@ python pointz_processing.py -i input.shp -o output.shp -a Depth -b 1
 
 The provided scripts are designed to be easily customized to fit specific use cases. You can modify them by:
 
--Changing the types of calculations performed (e.g., calculating distances, areas, or other geometric properties).
--Adding new fields and attributes based on different geometric or spatial data.
--Integrating with other libraries for advanced geospatial analysis, like **GDAL**, **Pyproj**, or **Shapely**.
--Adding support for other file formats like **PostGIS**, **MapInfo**, **DXF**, or **GPX**.
+- Changing the types of calculations performed (e.g., calculating distances, areas, or other geometric properties).
+- Adding new fields and attributes based on different geometric or spatial data.
+- Integrating with other libraries for advanced geospatial analysis, like **GDAL**, **Pyproj**, or **Shapely**.
+- Adding support for other file formats like **PostGIS**, **MapInfo**, **DXF**, or **GPX**.
 
 Feel free to fork this repository, extend the functionality, and build on the examples to suit your specific needs.
